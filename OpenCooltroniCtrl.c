@@ -1,18 +1,10 @@
 /*!
  * @file
  * @author Stefan Bollmann <stefan.bollmann@rwth-aachen.de>
- * @version 0.1 
- * 
- * @section LICENSE
- * 
- * "THE BEER-WARE LICENSE" (Revision 42):
- * <stefan.bollmann@rwth-aachen.de> wrote this file. As long as you retain this 
- * notice you can do whatever you want with this stuff. If we meet some day, 
- * and you think this stuff is worth it, you can buy me a beer in return.
- * Stefan Bollmann
- * (see [October 2011]: http://en.wikipedia.org/wiki/Beerware)
- * 
- * @section DESCRIPTION
+ * @deputy author ;-): Felix Ruedinger
+ * @version 1.0 
+ * Written at and for www.super-resolution.de at 
+ * biozentrum.uni-wuerzburg.de.
  * 
  * This file produces a menu for Communication of TC3215rs232 with 
  * serial port of a windows PC. Sending orders, reading settings 
