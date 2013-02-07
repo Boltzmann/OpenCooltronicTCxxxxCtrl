@@ -1,8 +1,8 @@
 OpenCooltronicTCxxxxCtrl
 =====================================================
 OpenCooltronicTCxxxxCtrl is a UI for 
-feedback controls of TCxxxx (tested4 TC3215) 
-by Cooltronic.ch.
+feedback controls of TCxxxxu tested for TC3215.
+TC3215 is a PID-control by Cooltronic.ch.
 
 This software was written for 
 lab-equipment of the 
